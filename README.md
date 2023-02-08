@@ -4,9 +4,9 @@ This repo contains two Jupyter Notebooks, WeatherPy and VacationPy.
 
 ## WeatherPy
 
-WeatherPy is an analysis of the weather of 581 random cities on 02/03/2023 and their distance from the equator. The random cities are generated using the citypy library and the weather data is gathered using OpenWeatherAPI. The relationships between latitude and max temperature, latitude and humidity, latitude and cloudiness, and latitude are wind speed are visualized using scatter plots. Finally, linear regression plots are used to visualize correlation for the above relationships for cities in the Nothern Hemisphere an cities in the Souther Hemisphere.
+WeatherPy is an analysis of the weather of 581 random cities on 02/03/2023 and their distance from the equator. The random cities are generated using the citypy library and the weather data is gathered using OpenWeatherAPI. The relationships between latitude and max temperature, latitude and humidity, latitude and cloudiness, and latitude are wind speed are visualized using scatter plots. Finally, linear regression plots are used to visualize correlation for the above relationships for cities in the Nothern Hemisphere and cities in the Souther Hemisphere.
 
-This analysis shows the temperature and distance from the equator are correlated. However, there is a much stronger correlation in the Northern Hemisphere than in the Southern Hemisphere.
+This analysis shows that the temperature and distance from the equator are correlated. However, there is a much stronger correlation in the Northern Hemisphere than in the Southern Hemisphere.
 
 ![Fig1](WeatherPy/output_data/Fig1.png)
 
