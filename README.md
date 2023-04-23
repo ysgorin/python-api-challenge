@@ -1,6 +1,16 @@
 # WeatherPy and VacationPy
 
-This repo contains two Jupyter Notebooks, WeatherPy and VacationPy.
+As part of my GWU Data Analysis & Visualization Boot Camp, I was tasked with visualizing a weather analysis (WeatherPy) and plotting desired vacation cities on a map (VacationPy).
+
+Technologies used in this project:
+* Python
+* Jupyter Notebook
+* API Request
+* Pandas
+* NumPy
+* SciPy
+* Matplotlib
+* hvPlot
 
 ## WeatherPy
 
